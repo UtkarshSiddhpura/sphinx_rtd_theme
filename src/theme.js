@@ -76,7 +76,7 @@ function ThemeNav () {
 
         this.navBar = $('div.wy-side-scroll:first');
         this.win = $(window);
-
+        console.log("HELOWWW FORM BUL BUL");
         // Set up javascript UX bits
         $(document)
             // Shift nav in mobile when clicking the menu.
